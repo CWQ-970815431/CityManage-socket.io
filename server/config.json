@@ -1,0 +1,135 @@
+{
+  "contain/left": {
+    "dayUse": "83999",
+    "time1": "10",
+    "time2": "54",
+    "percent1": "95.91",
+    "percent2": "51.94",
+    "monUse": 66666.66,
+    "yearUse": 1113596.24
+  },
+  "contain/center": {
+    "RedEnd": 37,
+    "Normalend": 283,
+    "TotalEnd": 460,
+    "OrangeEnd": 140,
+    "zeroEnd": 0,
+    "data": [
+      [
+        "05-09 10:48:40",
+        "荷城路",
+        "174800400354",
+        "<span style='color: #fe6323;margin-left:6px;'>橙色警报</span>"
+      ],
+      [
+        "05-09 09:29:33",
+        "迎宾大道",
+        "174800600128",
+        "<span style='color: #fe6323;margin-left:6px;'>橙色警报</span>"
+      ],
+      [
+        "01-19 11:19:30",
+        "通锦路",
+        "174800400174",
+        "<span style='color: #fe6323;margin-left:6px;'>橙色警报</span>"
+      ],
+      [
+        "05-09 10:48:40",
+        "成华大道",
+        "174800400354",
+        "<span style='color: #fe6323;margin-left:6px;'>橙色警报</span>"
+      ],
+      [
+        "05-09 09:29:33",
+        "二仙桥",
+        "174800600128",
+        "<span style='color: #fe6323;margin-left:6px;'>橙色警报</span>"
+      ],
+      [
+        "01-19 11:19:30",
+        "九眼桥",
+        "174800400174",
+        "<span style='color: #fe6323;margin-left:6px;'>橙色警报</span>"
+      ]
+    ]
+  },
+  "contain/list": {
+    "jinggai": {
+      "imgurl": "./static/two/list/group-copy-13.png",
+      "bigurl": "./static/two/jinggai.png",
+      "iconmsg": "井盖移位",
+      "iconlist": [
+        {
+          "icon": " ./static/two/list/shebei.png",
+          "title": "设备编号:",
+          "msg": "174803800295"
+        },
+        {
+          "icon": "./static/two/list/gaizhangleixing.png",
+          "title": "设备类型:",
+          "msg": "井盖"
+        },
+        {
+          "icon": "./static/two/list/dizhizhuanjingweidu.png",
+          "title": "经度纬度:",
+          "msg": "32.016004.118.7699331"
+        },
+        {
+          "icon": " ./static/two/list/dizhi.png",
+          "title": "详细位置:",
+          "msg": "秦淮区风游寺与豆腐坊交叉口西南150米"
+        },
+        {
+          "icon": "./static/two/list/shijian (1).png",
+          "title": "报警时间:",
+          "msg": "2019-05-25 11:36:57"
+        }
+      ]
+    },
+    "flag": {
+      "imgurl": "./static/two/list/group-copy-11.png",
+      "bigurl": "./static/two/langan-waring.png",
+      "iconmsg": "发生碰撞",
+      "iconlist": [
+        {
+          "icon": "./static/two/list/shebei.png",
+          "title": "设备编号:",
+          "msg": "91757a14-7428-48b3-9df2-3c2e2483759"
+        },
+        {
+          "icon": "./static/two/list/gaizhangleixing.png",
+          "title": "设备类型:",
+          "msg": "护栏"
+        },
+        {
+          "icon": "./static/two/list/shijian.png",
+          "title": "事件描述:",
+          "msg": "X轴偏移 【-2°】   Y轴偏移【4°】 Z轴偏移【4°】"
+        },
+        {
+          "icon": "./static/two/list/dizhizhuanjingweidu.png",
+          "title": "经度纬度:",
+          "msg": "32.016004.118.7699331"
+        },
+        {
+          "icon": "./static/two/list/dizhi.png",
+          "title": "详细位置:",
+          "msg": "秦淮区风游寺与豆腐坊交叉口西南150米"
+        },
+        {
+          "icon": " ./static/two/list/shijian (1).png",
+          "title": "报警时间:",
+          "msg": "2019-05-25 11:36:57"
+        }
+      ]
+    }
+  },
+  "contain/right": {
+    "sTotalEnd": 212817,
+    "closeEnd": 206086,
+    "roadEnd": 6981,
+    "realEnd": 9972,
+    "todayEnd": 3290,
+    "remainEnd": 5826
+  }
+}
